@@ -1,0 +1,30 @@
+
+In the given single page React project, a button click prompts an HTTP GET request to an API endpoint that returns a date as its API response. Complete the project so it displays the current day, month, and year after clicking the button. Model the implementation after the instructions below.
+
+Certain core React functionalities have already been implemented. Complete the React application in order to pass all the unit tests.
+
+
+
+Demo
+
+Link to an animated GIF
+Scroll sideways below to explore the screenshots. Clicking each screenshot opens it in a new window.
+
+Application's initial state before clicking the button.
+
+
+Display date after clicking the button.
+
+
+Specifications
+
+Component flow diagram of the application is as follows:
+
+
+
+
+Framework Specific Instructions
+The project uses React 16 by default. Changing the React version may interfere with tests and is strictly discouraged. You may refer to the React 16 docs here.
+The project uses create-react-app and react-scripts to automate serving and testing of the application.
+The project uses enzyme as a testing framework. Please refrain from changing the test framework or the tests themselves.
+The project uses React Material UI as a design framework. API docs are available here and can be used as a reference.
