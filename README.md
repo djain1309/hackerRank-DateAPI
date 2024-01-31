@@ -68,9 +68,9 @@ It is advised to modify the test case to accommodate dynamic responses from the 
 
 Steps to run the code:
 
-# install nodejs
-# get the code
-# move to directory : Project "Date API" through terminal
-# enter command to install the packages: npm install
-# enter command to start the application: npm start
-# enter command to run the tests: npm run test
+#### install nodejs
+#### get the code
+#### move to directory : Project "Date API" through terminal
+#### enter command to install the packages: npm install
+#### enter command to start the application: npm start
+#### enter command to run the tests: npm run test
